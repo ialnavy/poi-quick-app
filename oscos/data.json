@@ -38,13 +38,25 @@
                     "id": "uniqueID2",
                     "lat": "43.29983683781173",
                     "lon": "-6.9977298312550245",
-                    "type": "nature",
+                    "type": "business",
                     "name": "Forge of Villanueva de Oscos",
                     "images": [
                         "https://www.oscoseoturismo.com/wp-content/uploads/2017/03/herreria-1.jpg"
                     ],
                     "description": "The Mazonovo Ethnographic Ensemble, living witness of the iron industry of Santa Eulalia de Oscos, owes its name to a hydraulic iron drawing mallet that dates back to the 18th century and maintains its activity in the 21st century.",
                     "more": "The Mazonovo Ethnographic Ensemble, living witness of the iron industry of Santa Eulalia de Oscos, owes its name to a hydraulic iron drawing mallet that dates back to the 18th century and maintains its activity in the 21st century.",
+                    "urls": []
+                }, {
+                    "id": "uniqueID3",
+                    "lat": "43.2499081289933",
+                    "lon": "-6.999846010040465",
+                    "type": "business",
+                    "name": "Duxemiel",
+                    "images": [
+                        "https://tierrasapicolas.com/wp-content/uploads/2023/06/IMG_20230616_125500-400x300.jpg"
+                    ],
+                    "description": "Duxemiel is a family business of young entrepreneurs that aims to take advantage of natural resources through beekeeping, you will learn about the exciting world of bees with a guided tour, through Apitourism. In addition, it offers you all kinds of products, such as honey, pollen, wax, swarms, etc.",
+                    "more": "Duxemiel is a family business of young entrepreneurs that aims to take advantage of natural resources through beekeeping, you will learn about the exciting world of bees with a guided tour, through Apitourism. In addition, it offers you all kinds of products, such as honey, pollen, wax, swarms, etc.",
                     "urls": []
                 }
             ]
