@@ -34,6 +34,18 @@
                     "description": "A path that follows the river Agüeira, through a landscape characterized by meadows enclosed by stone walls (characteristic of the Oscos) and forests of chestnut and oak trees.",
                     "more": "A path that follows the river Agüeira, through a landscape characterized by meadows enclosed by stone walls (characteristic of the Oscos) and forests of chestnut and oak trees.",
                     "urls": []
+                }, {
+                    "id": "uniqueID2",
+                    "lat": "43.29983683781173",
+                    "lon": "-6.9977298312550245",
+                    "type": "nature",
+                    "name": "Forge of Villanueva de Oscos",
+                    "images": [
+                        "https://www.oscoseoturismo.com/wp-content/uploads/2017/03/herreria-1.jpg"
+                    ],
+                    "description": "The Mazonovo Ethnographic Ensemble, living witness of the iron industry of Santa Eulalia de Oscos, owes its name to a hydraulic iron drawing mallet that dates back to the 18th century and maintains its activity in the 21st century.",
+                    "more": "The Mazonovo Ethnographic Ensemble, living witness of the iron industry of Santa Eulalia de Oscos, owes its name to a hydraulic iron drawing mallet that dates back to the 18th century and maintains its activity in the 21st century.",
+                    "urls": []
                 }
             ]
         }
