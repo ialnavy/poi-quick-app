@@ -1,7 +1,7 @@
 {
     "meta": {
         "app_id": "org.example.same.oscos.manifest.package",
-        "app_title": "City Street Heritage",
+        "app_title": "Los Oscos",
         "version": 1,
         "updated": "2023-10-04",
         "source_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/oscos/data.json",
@@ -12,7 +12,7 @@
         "en": {
             "app": {
                 "theme": {
-                    "brand": "#B11623",
+                    "brand": "#166F3C",
                     "complementary": "#FAFAFA"
                 },
                 "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/country/city",
@@ -24,37 +24,16 @@
             },
             "pois": [{
                     "id": "uniqueID",
-                    "lat": "50.8789629",
-                    "lon": "4.7013242",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "lat": "43.267727763561105",
+                    "lon": "-7.0557964820748715",
+                    "type": "nature",
+                    "name": "Seimeira Waterfall",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
+                        "https://guiadeasturias.com/wp-content/uploads/2017/08/Fotos-de-www.oscoseoturismo-26.jpg"
                     ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
-                    "urls": [
-                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
-                        "https://example.org/mypoi"
-                    ]
-                },
-                {
-                    "id": "uniqueID-2",
-                    "lat": "50.9",
-                    "lon": "4.8",
-                    "type": "statue",
-                    "name": "My Statue",
-                    "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
-                    ],
-                    "description": "One-paragraph description",
-                    "more": "More description, if you want",
-                    "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
-                    ]
+                    "description": "A path that follows the river Agüeira, through a landscape characterized by meadows enclosed by stone walls (characteristic of the Oscos) and forests of chestnut and oak trees.",
+                    "more": "A path that follows the river Agüeira, through a landscape characterized by meadows enclosed by stone walls (characteristic of the Oscos) and forests of chestnut and oak trees.",
+                    "urls": []
                 }
             ]
         }
